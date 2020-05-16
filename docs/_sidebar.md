@@ -1,5 +1,5 @@
 * [MiniCat](/)
-* [Python](/python)
+* [Python](python.md)
 * [Flask](/)
 * [JavaScript](/)
 * [Mysql](/)

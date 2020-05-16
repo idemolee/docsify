@@ -1,4 +1,4 @@
 # Frozencat<small>1.0</small>
->My notebook...
+>My study notebook...
 
-[Get Started](#quick-start)
+[Get Started](#Learning)
