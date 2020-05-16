@@ -1,0 +1,8 @@
+*[Main](/)
+*[Python](/python)
+*[Flask](/)
+*[JavaScript](/)
+*[Mysql](/)
+*[Git/Github](/)
+*[Linux](/)
+*[Html](/)
