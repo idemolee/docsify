@@ -1,4 +1,4 @@
-* [Main](/)
+* [MiniCat](/)
 * [Python](/python)
 * [Flask](/)
 * [JavaScript](/)

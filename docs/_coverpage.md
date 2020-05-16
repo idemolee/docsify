@@ -1,3 +1,4 @@
-# frozencat<small>1.0</small>
+# Frozencat<small>1.0</small>
 >My notebook...
+
 [Get Started](#quick-start)
