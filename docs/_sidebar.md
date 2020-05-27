@@ -3,6 +3,6 @@
 * [Flask](/)
 * [JavaScript](/)
 * [Mysql](/)
-* [Git/Github](/)
-* [Linux](/)
+* [Git/Github](git_github.md)
+* [Linux](linux.md)
 * [Html](/)
